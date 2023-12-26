@@ -200,6 +200,9 @@ on boot
     chown system system /dev/stune/top-app/cgroup.procs
     chmod 0666 /dev/stune/background/cgroup.procs
     chmod 0666 /dev/stune/top-app/cgroup.procs
+    chmod 0664 /sys/class/thermal/thermal_message/sconfig
+    chmod 0666 /sys/class/thermal/thermal_message/temp_state
+    chown system system /sys/class/thermal/thermal_message/temp_state
 
 # add dual
     mkdir /mnt/vendor/persist/camera 0777 system system
