@@ -2,11 +2,11 @@ echo 'Starting to clone stuffs needed for your device'
 
 echo 'Cloning Vendor tree [1/5]'
 # Vendor Tree
-git clone --depth=1 https://github.com/ProjectElixir-Devices/vendor_xiaomi_veux.git vendor/xiaomi/veux
+git clone --depth=1 https://gitlab.com/ThePrateekBhatia/vendor_xiaomi_veux.git vendor/xiaomi/veux
 
 echo 'Cloning Firmware tree [2/5]'
 # Firmware Tree
-git clone https://github.com/ProjectElixir-Devices/vendor_xiaomi_veux-firmware.git vendor/xiaomi/veux-firmware
+git clone --depth=1 https://gitlab.com/ThePrateekBhatia/vendor_xiaomi_veux-firmware.git vendor/xiaomi/veux-firmware
 
 echo 'Cloning Kernel tree [3/5]'
 # Kernel Tree
@@ -14,7 +14,7 @@ git clone --depth=1 https://github.com/crdroidandroid/android_kernel_oneplus_sm8
 
 echo 'Cloning Prebuilt Kernel tree [4/5]'
 # Prebuilt Kernel Tree
-git clone https://github.com/ProjectElixir-Devices/device_xiaomi_veux-kernel.git device/xiaomi/veux-kernel
+git clone --depth=1 https://github.com/ProjectElixir-Devices/device_xiaomi_veux-kernel.git device/xiaomi/veux-kernel
 
 echo 'Cloning Lineage Hardware Compat [5/5]'
 # Hardware Lineage Compat
