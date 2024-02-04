@@ -127,6 +127,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES_DEBUG += \
     bootctl
 
+# Google Camera
+$(call inherit-product, vendor/xiaomi/veux-gcam/Camera-vendor.mk)
+
 # Camera
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl \
