@@ -28,6 +28,9 @@ ELIXIR_MAINTAINER := ꜰʀᴇᴀᴋʏ-ᴘʀᴀᴛᴇᴇᴋ
 BUILD_USERNAME := Freaky
 BUILD_HOSTNAME := Elixir
 
+# Lawnchair
+FORCE_LAWNCHAIR := true
+
 # Inherit from veux device
 $(call inherit-product, device/xiaomi/veux/device.mk)
 
