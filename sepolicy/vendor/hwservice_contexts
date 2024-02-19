@@ -28,3 +28,6 @@ ro.vendor.ril.svdo                                              u:object_r:vendo
 
 # Sensors
 vendor.xiaomi.hardware.citsensorservice::ICitSensorService      u:object_r:vendor_hal_citsensorservice_xiaomi_hwservice:s0
+
+# Dolby
+vendor.dolby.hardware.dms::IDms                                            u:object_r:hal_dms_hwservice:s0

@@ -79,6 +79,9 @@ ODM_MANIFEST_NFC_FILES := $(DEVICE_PATH)/configs/hidl/manifest_nfc.xml
 # HWUI
 HWUI_COMPILE_FOR_PERF := true
 
+# Dolby
+AUDIO_FEATURE_ENABLED_DS2_DOLBY_DAP := true
+
 # Init
 TARGET_INIT_VENDOR_LIB := //$(DEVICE_PATH):init_xiaomi_veux
 
