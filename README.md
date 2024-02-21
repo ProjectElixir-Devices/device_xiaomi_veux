@@ -1,24 +1,35 @@
-# Device Tree for POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G (peux/veux)
+# POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G
 
-## Spec Sheet
+![POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G](https://i.ibb.co/cchT0vx/pms-1649416930-26691821.png)
 
-| Feature          | Specification                                                   |
-| :--------------- | :-------------------------------------------------------------- |
-| CPU              | Octa-core (2x2.2 GHz Kryo 660 Gold & 6x1.7 GHz Kryo 660 Silver) |
-| Chipset          | Qualcomm SM6375 Snapdragon 695G (6 nm)                          |
-| GPU              | Adreno 619                                                      |
-| Memory           | 6 GB / 8 GB                                                     |
-| Shipped Software | Android 13, MIUI 14                                             |
-| Storage          | 128 GB / 256 GB                                                 |
-| Battery          | 5000 mAh                                                        |
-| Dimensions       | 165.1 x 76.4 x 9.3 mm (6.5 x 3.01 x 0.37 in)                    |
-| Display          | 6.67 inches, 107.4 cm2 (~86.0% screen-to-body ratio)            |
-| Rear Camera      | 108 MP, f/1.9, 26mm (wide), 1/1.52", 0.7µm, PDAF                |
-|                  | 8 MP, f/2.2, 118˚ (ultrawide)                                   |
-|                  | 2 MP, f/2.4, (macro)                                            |
-| Front Camera     | 16 MP, f/2.5, (wide), 1/3.06" 1.0µm                             |
-| Release Date     | February 2022                                                   |
+## Device Overview
+Welcome to the detailed overview of the POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G. This device combines advanced features and impressive specifications to provide an exceptional user experience.
 
-## Device Picture
 
-![POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G](https://i.ibb.co/4syxpfw/330608dc148bfa50f6326d996d6c8e8b.png "POCO X4 Pro 5G/Redmi Note 11E Pro/Redmi Note 11 Pro 5G/Redmi Note 11 Pro+ 5G")
+## Key Specifications
+
+- **CPU:** Octa-core Qualcomm Snapdragon processor
+- **GPU:** Adreno 619
+- **Memory:** 
+  - 6 GB / 8 GB RAM options
+- **Storage:** 
+  - 64 GB / 128 GB / 256 GB internal storage options
+- **Software:** 
+  - Android 13 with MIUI 14
+- **Battery:** 
+  - 5000 mAh with 67W wired charging
+  - Charging Times: 70% in 22 min, 100% in 41 min (advertised)
+- **Display:** 
+  - 6.67 inches
+  - ~86.0% screen-to-body ratio
+- **Rear Camera:** 
+  - Global version: 108 MP (f/1.9, 26mm wide), PDAF, 0.7µm
+  - Indian version: 64 MP (f/1.8, 26mm wide), PDAF, 0.7µm
+  - Ultrawide: 8 MP (f/2.2, 118˚)
+  - Macro: 2 MP (f/2.4)
+- **Front Camera:** 
+  - 16 MP (f/2.5, wide)
+
+
+## Release Date
+January 2022 (Global)
