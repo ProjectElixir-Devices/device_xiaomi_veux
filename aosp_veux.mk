@@ -31,6 +31,9 @@ BUILD_HOSTNAME := Elixir
 # Lawnchair
 FORCE_LAWNCHAIR := true
 
+# Basic Call Recording
+USE_BCR := true
+
 # Inherit from veux device
 $(call inherit-product, device/xiaomi/veux/device.mk)
 
