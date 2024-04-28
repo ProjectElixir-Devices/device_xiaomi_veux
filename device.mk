@@ -307,6 +307,10 @@ PRODUCT_PACKAGES += \
     SettingsProviderOverlay2201116PG \
     SettingsProviderOverlay2201116PI
 
+PRODUCT_PACKAGES += \
+    frameworks \
+    packages
+
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/overlay/config-odm.xml:$(TARGET_COPY_OUT_ODM)/overlay/config/config.xml \
     $(LOCAL_PATH)/overlay/config-vendor.xml:$(TARGET_COPY_OUT_VENDOR)/overlay/config/config.xml
